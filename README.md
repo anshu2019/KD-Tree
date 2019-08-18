@@ -1,4 +1,4 @@
-# kd-tree
+# Kd-Tree
 This is a implementation of famous 2d tree based on the algorithm of Robert Sedgewick .
 https://www.youtube.com/watch?v=EsY8KSXKe5k
 
